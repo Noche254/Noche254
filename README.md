@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noche254
-- 👀 I’m interested in Ui/Ux design
+- 👀 I’m a web designer and developer/Ui/Ux designer
 - 🌱 I’m currently learning to use figma in web and app creation both front-end and back-end and code for web design
 - 💞️ I’m looking to collaborate on building websites and mobile apps
 - 📫 How to reach me @Denoche254 -Twitter
