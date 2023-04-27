@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/denoche254" target="blank"><img src="https://img.shields.io/twitter/follow/denoche254?logo=twitter&style=for-the-badge" alt="denoche254" /></a> </p>
 
-- 🔭 I’m currently working on **An Admin Dashboard**
+- 🔭 I’m currently working on **A Landing Page Website **
 
-- 🌱 I’m currently learning **Web with Html and Css, and beginning on Android**
+- 🌱 I’m currently learning **Web with Python, Html, Css and React, and beginning on Android**
 
-- 💬 Ask me about **Web dev , Android**
+- 💬 Ask me about **Web dev, design and Android**
 
 - 📫 How to reach me **otienod228@gmail.com**
 
