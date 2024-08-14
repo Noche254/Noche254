@@ -4,12 +4,16 @@
 - 🌱 Building the future, one line of code at a time.<br>
 -    Problem solver, code magician.<br>
 -    Passionate about turning ideas into reality.<br>
+
 Descriptive:<br>
- <br> - Software engineer with a knack for turning complex problems into elegant solutions.<br>
+
+  - Software engineer with a knack for turning complex problems into elegant solutions.<br>
   - Dedicated to creating innovative software that makes a difference.<br>
   - Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.<br>
   - Always learning, always growing, always building.<br>
+  
 Fun and Engaging:<br>
+
    -  Coding is my therapy, debugging is my adventure.<br>
    -  I don't dream in code, I code in dreams.<br>
    -  Turning coffee into code.<br>
