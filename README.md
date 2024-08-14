@@ -1,18 +1,18 @@
 # 💫 About Me:
 👋 Hi I'm Noche254 <br>
-👀 Software engineer crafting digital solutions.
-🌱 Building the future, one line of code at a time.
-    Problem solver, code magician.
-    Passionate about turning ideas into reality.
-Descriptive:
-    Software engineer with a knack for turning complex problems into elegant solutions.
-    Dedicated to creating innovative software that makes a difference.
-    Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.
-    Always learning, always growing, always building.
-Fun and Engaging:
-    Coding is my therapy, debugging is my adventure.
-    I don't dream in code, I code in dreams.
-    Turning coffee into code.
+👀 Software engineer crafting digital solutions.<br>
+🌱 Building the future, one line of code at a time.<br>
+    Problem solver, code magician.<br>
+    Passionate about turning ideas into reality.<br>
+Descriptive:<br>
+    Software engineer with a knack for turning complex problems into elegant solutions.<br>
+    Dedicated to creating innovative software that makes a difference.<br>
+    Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.<br>
+    Always learning, always growing, always building.<br>
+Fun and Engaging:<br>
+    Coding is my therapy, debugging is my adventure.<br>
+    I don't dream in code, I code in dreams.<br>
+    Turning coffee into code.<br>
     Building the world, one app at a time.<br> 
 
 
