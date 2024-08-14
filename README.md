@@ -5,7 +5,7 @@
 -    Problem solver, code magician.<br>
 -    Passionate about turning ideas into reality.<br>
 Descriptive:<br>
-  - Software engineer with a knack for turning complex problems into elegant solutions.<br>
+ <br> - Software engineer with a knack for turning complex problems into elegant solutions.<br>
   - Dedicated to creating innovative software that makes a difference.<br>
   - Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.<br>
   - Always learning, always growing, always building.<br>
