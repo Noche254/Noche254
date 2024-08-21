@@ -3,7 +3,7 @@
 - 💼 Software engineer crafting digital solutions.<br>
 - 🏛 Building the future, one line of code at a time.<br>
 - 📦 Problem solver, code magician.<br>
-- 🔧  Passionate about turning ideas into reality. 💯 <br>
+- 🔧  Passionate about turning ideas into reality.<br>
 
 Descriptive:<br>
 
@@ -11,7 +11,7 @@ Descriptive:<br>
   - 💁🏾 Dedicated to creating innovative software that makes a difference.<br>
   - 👨🏾‍🔬 Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.<br>
   - 📝 Always learning, always growing, always building.<br>
-  - 🖌 Love designing and Building Website and Applications am always Open for design jobs.<br>
+  - 🖌 Love designing and Building Websites and Applications am always Open for design jobs.💯 <br>
   
 Fun and Engaging:<br>
 
