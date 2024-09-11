@@ -1,5 +1,6 @@
 # 💫 About Me:
 - 👋 Hi I'm Noche254 <br>
+- 📌 Learning React native open to do projects on React 💪 .<br>
 - 💼 Software engineer crafting digital solutions.<br>
 - 🏛 Building the future, one line of code at a time.<br>
 - 📦 Problem solver, code magician.<br>
