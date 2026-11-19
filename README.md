@@ -1,23 +1,24 @@
 # 💫 About Me:
 - 👋 Hi I'm Noche254 <br>
-- 📌 Currently Learning ReactJs, React native and open to do projects on React 💪 .<br>
-- 💼 Software engineer crafting digital solutions.<br>
+- 📌 Currently learning AI engineering, Agentic workflows, and open to doing projects and sharing Ideas on Ai 💪 .<br>
+- 💼 Software engineer at Stepwise.<br>
 - 🏛 Building the future, one line of code at a time.<br>
 - 📦 Problem solver, code magician.<br>
 - 🔧  Passionate about turning ideas into reality.<br>
 
 Descriptive:<br>
 
-  - 👷🏾‍♂️ Software engineer with a knack for turning complex problems into elegant solutions.<br>
-  - 💁🏾 Dedicated to creating innovative software that makes a difference.<br>
+  - 👷🏾‍♂️ Full-Stack Software Engineer.<br>
+  - 💁🏾 Building AI-Powered Web Apps (React, Node.js, Python & LLM APIs).<br>
   - 👨🏾‍🔬 Enthusiastic about exploring new technologies and pushing the boundaries of what's possible.<br>
   - 📝 Always learning, always growing, always building.<br>
-  - 🖌 Love designing and Building Websites and Applications am always Open for design jobs.💯 <br>
+  - 🖌 Love designing and Building Websites and applications. I'm always Open for design jobs.💯 <br>
+  - 👷🏾‍♂️ Junior AI Engineer and AI Automation Engineer. <br>
   
 Fun and Engaging:<br>
 
    - 💆🏾 Coding is my therapy, debugging is my adventure.<br>
-   - 🎅🏽 I don't dream in code, I code in dreams.<br>
+   - 🎅🏽 I don't dream in code; I code in dreams.<br>
    - 🧚🏾‍♂️ Turning coffee into code.<br>
    - 🛸 Building the world, one app at a time.<br> 
 
