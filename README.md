@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi I'm Noche254 <br>
-- 📌 Currently learning AI engineering, Agentic workflows, and open to doing projects and sharing Ideas on Ai 💪 .<br>
+- 📌 Currently learning AI engineering, Agentic workflows, and open to doing projects and sharing Ideas on AI 💪 .<br>
 - 💼 Software engineer at Stepwise.<br>
 - 🏛 Building the future, one line of code at a time.<br>
 - 📦 Problem solver, code magician.<br>
